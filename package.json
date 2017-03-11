@@ -1,0 +1,27 @@
+{
+  "name": "project-name",
+  "version": "1.0.2",
+  "description": "{description}",
+  "keywords": [
+   ],
+  "main": "index.js",
+  "author": "Kfir Bloch <kfirb@wix.com>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "{repo url}"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "~3.5.0",
+    "mocha": "~3.2.0",
+    "sinon": "~1.17.6"
+  }
+}
